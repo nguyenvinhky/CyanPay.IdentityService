@@ -1,0 +1,6 @@
+@CyanPay.IdentityService.API_HostAddress = http://localhost:5113
+
+GET {{CyanPay.IdentityService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
