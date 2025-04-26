@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CyanPay.IdentityService.Infrastructure/1.0.0": {
+        "runtime": {
+          "CyanPay.IdentityService.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CyanPay.IdentityService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

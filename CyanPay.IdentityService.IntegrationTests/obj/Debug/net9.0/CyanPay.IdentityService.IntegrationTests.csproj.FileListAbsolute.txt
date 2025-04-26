@@ -1,0 +1,12 @@
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\bin\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.deps.json
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\bin\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.dll
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\bin\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.pdb
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\obj\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\obj\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.AssemblyInfoInputs.cache
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\obj\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.AssemblyInfo.cs
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\obj\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\obj\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.sourcelink.json
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\obj\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.dll
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\obj\Debug\net9.0\refint\CyanPay.IdentityService.IntegrationTests.dll
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\obj\Debug\net9.0\CyanPay.IdentityService.IntegrationTests.pdb
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.IntegrationTests\obj\Debug\net9.0\ref\CyanPay.IdentityService.IntegrationTests.dll

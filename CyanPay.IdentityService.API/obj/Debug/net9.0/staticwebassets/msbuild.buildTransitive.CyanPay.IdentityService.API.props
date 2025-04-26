@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CyanPay.IdentityService.API.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\bin\Debug\net9.0\CyanPay.IdentityService.Application.deps.json
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\bin\Debug\net9.0\CyanPay.IdentityService.Application.dll
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\bin\Debug\net9.0\CyanPay.IdentityService.Application.pdb
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\obj\Debug\net9.0\CyanPay.IdentityService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\obj\Debug\net9.0\CyanPay.IdentityService.Application.AssemblyInfoInputs.cache
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\obj\Debug\net9.0\CyanPay.IdentityService.Application.AssemblyInfo.cs
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\obj\Debug\net9.0\CyanPay.IdentityService.Application.csproj.CoreCompileInputs.cache
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\obj\Debug\net9.0\CyanPay.IdentityService.Application.sourcelink.json
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\obj\Debug\net9.0\CyanPay.IdentityService.Application.dll
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\obj\Debug\net9.0\refint\CyanPay.IdentityService.Application.dll
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\obj\Debug\net9.0\CyanPay.IdentityService.Application.pdb
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.Application\obj\Debug\net9.0\ref\CyanPay.IdentityService.Application.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gquzxED6MPmG6HBbhjowwAK1+ChD+IdaJOqw2arQxHM=",
+  "Source": "CyanPay.IdentityService.API",
+  "BasePath": "_content/CyanPay.IdentityService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
