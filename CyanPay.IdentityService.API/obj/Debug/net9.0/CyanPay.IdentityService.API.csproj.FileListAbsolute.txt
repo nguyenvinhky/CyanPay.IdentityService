@@ -33,3 +33,6 @@ C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.API\obj\Debug\net
 C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.API\obj\Debug\net9.0\CyanPay.IdentityService.API.pdb
 C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.API\obj\Debug\net9.0\CyanPay.IdentityService.API.genruntimeconfig.cache
 C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.API\obj\Debug\net9.0\ref\CyanPay.IdentityService.API.dll
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Job\CyanPay\CyanPay.IdentityService\CyanPay.IdentityService.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
