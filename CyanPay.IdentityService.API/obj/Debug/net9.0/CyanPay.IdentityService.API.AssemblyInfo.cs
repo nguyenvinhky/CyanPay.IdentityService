@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyanPay.IdentityService.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+064d15dec4588b0c39a73ced9fc19513f2ced76f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a8743c7581a97b05ed96e8737b895ce0ae29ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyanPay.IdentityService.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyanPay.IdentityService.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyanPay.IdentityService.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff2959388ccc041263e853df60d77a6898bfab3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a8743c7581a97b05ed96e8737b895ce0ae29ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyanPay.IdentityService.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyanPay.IdentityService.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
