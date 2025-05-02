@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Windows\\.nuget\\packages\\": {},
+    "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Domain\\CyanPay.IdentityService.Domain.csproj",
+      "projectUniqueName": "C:\\work\\job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Domain\\CyanPay.IdentityService.Domain.csproj",
       "projectName": "CyanPay.IdentityService.Domain",
-      "projectPath": "C:\\Job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Domain\\CyanPay.IdentityService.Domain.csproj",
-      "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Domain\\obj\\",
+      "projectPath": "C:\\work\\job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Domain\\CyanPay.IdentityService.Domain.csproj",
+      "packagesPath": "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\",
+      "outputPath": "C:\\work\\job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nguyen Vinh Ky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

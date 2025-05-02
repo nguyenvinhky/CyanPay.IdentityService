@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj": {}
+    "C:\\work\\job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj": {}
   },
   "projects": {
-    "C:\\Job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj": {
+    "C:\\work\\job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj",
+        "projectUniqueName": "C:\\work\\job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj",
         "projectName": "CyanPay.IdentityService.Application",
-        "projectPath": "C:\\Job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj",
-        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\obj\\",
+        "projectPath": "C:\\work\\job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\",
+        "outputPath": "C:\\work\\job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nguyen Vinh Ky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,24 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

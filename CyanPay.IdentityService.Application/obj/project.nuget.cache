@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "zNf/pE1l69A=",
+  "dgSpecHash": "/ngSB8J6g7Y=",
   "success": true,
-  "projectFilePath": "C:\\Job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\work\\job\\CyanPay\\CyanPay.IdentityService\\CyanPay.IdentityService.Application\\CyanPay.IdentityService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",
+    "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Nguyen Vinh Ky\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
